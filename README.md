@@ -37,5 +37,15 @@ gui
 2htdp/image
 
 
+Division of work
+
+1 – Front end:
+One of us does the front end and works on implementing a 2 player mode. 
+
+2 – AI:
+One of us creates a simple AI (maybe multiple difficulties if one proves too simple) to the best of our ability.
+
+3 – Advanced AI:
+We were inspired to do this when we discovered someone implemented a perfect AI that can’t be beaten. The goal here would be to utilize a complex higher algorithm to emulate an AI such as the perfect one. By doing this we hope to enhance our problem-solving approach by conducting research and making a solution that we wouldn’t normally create on our own.
 
 
