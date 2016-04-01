@@ -37,7 +37,7 @@ gui
 2htdp/image
 
 
-Division of work
+#Division of work
 
 1 – Front end:
 One of us does the front end and works on implementing a 2 player mode. 
