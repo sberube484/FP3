@@ -40,7 +40,7 @@ gui
 #Division of work
 
 1 – Front end:
-One of us does the front end and works on implementing a 2 player mode. 
+One of us does the front end and works on implementing a 2 player mode. This person will also look into implementing a server (maybe use UMass Lowell's) to coordinate between front and back end. This includes hosting the game on a server, and getting moves from both player using TCP or HTTP.
 
 2 – AI:
 One of us creates a simple AI (maybe multiple difficulties if one proves too simple) to the best of our ability.
