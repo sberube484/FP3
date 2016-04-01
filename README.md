@@ -1,21 +1,41 @@
 # FP3 - Team Declaration
-Due Friday, March 25, 2016.
-Once you have your team figured out, **make a single pull request** for your whole team describing:
-* who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
-* a project title (10 words or fewer, can be changed later)
-* a basic project concept
-* what libraries you plan on using, as a group
 
-Team rules:
-* All team members must be in the same course section
-* Teams of less than two members require explicit written permission
-* Teams of more than three people require explicit written permission
+#Title: Checker Master
 
-In looking for the team, we welcome you to use the course mailing list.
-When posting on the list, be sure to include:
-* what you're interested in doing
-* what libraries you looked at for FP1 and FP2
-* when you will be able to meet to work on project
+#Team Name: Team Checkers
 
-To submit: make a pull request. One pull request for the whole team.
+#Members:
+Sean Berube
+Brendan Bousquet
+Samir Khoulani
+
+
+
+#Summary:
+	Our project will be an implementation of the standard game of checkers with various AI difficulties that can 
+	
+	be played against. The difficulties will be normal, hard, and impossible.  Our intention is to program the
+	
+	normal difficulty to play like someone with	moderate knowledge of how to play the game beyond the rules.  The 
+	
+	hard difficulty would employ more in-depth AI that will play the game like a seasoned player.  Impossible will 
+	
+	be our attempt at creating an AI that will always beat a human player or tie in the event of a “perfect game.” 
+	
+	This last mode will likely be a reach goal as it was only accomplished in 2007 by Jonathan Schaeffer at	the 
+	
+	University of Alberta.  Might be difficult to implement in Racket but it seems like an interesting goal if the 
+	
+	algorithms are	public.  We have been to their website but lots of the pages surrounding their paper on the 
+	
+	solution are down.
+
+#Libraries to be used:
+
+gui
+
+2htdp/image
+
+
+
+
